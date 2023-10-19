@@ -1,6 +1,3 @@
-import java.lang.reflect.Array;
-import java.util.Arrays;
-
 public class Anagramma {
     public static void main(String[] args) {
         //str1, str2, (int)a(97)-z(122)

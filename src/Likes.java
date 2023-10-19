@@ -21,7 +21,7 @@ public class Likes {
         for(Map.Entry<String, Integer> record: likes.entrySet()) {
             total += record.getValue();
         }
-        //or
+        //or:
 //        for (int count: likes.values()) {
 //            total += count;
 //        }

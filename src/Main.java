@@ -39,7 +39,7 @@ public class Main {
                 new Yokozuna("Kisenosato", 250)
         );
         wrestlers.sort(Comparator.naturalOrder());
-        System.out.println("!!!!!!!!!!" + wrestlers.toString());
+        System.out.println("!!!!!!!!!" + wrestlers.toString());
 
         //Set
         //HashSet is implementation, uses hashCode for calculations

@@ -13,7 +13,7 @@ public class Yokozuna implements Comparable<Yokozuna> {
     public int compareTo(Yokozuna o) {
         return Integer.compare(weight, o.weight);
 
-//        compare(weight, o.weight):
+//        method compare(weight, o.weight):
 //        if (weight < o.weight) {
 //            return -1;
 //        } else if (weight > o.weight) {
